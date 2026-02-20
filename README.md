@@ -1,16 +1,22 @@
-## Hi there 👋
+```
+    .___.__               
+  __| _/|  |___  _____.__.
+ / __ | |  |\  \/ <   |  |
+/ /_/ | |  |_\   / \___  |
+\____ | |____/\_/  / ____|
+     \/            \/     
+```
 
-<!--
-**dlvy/dlvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🎮 Play something now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 💀[**Void Walker**](https://dlvy.github.io/void_walker.html) - Turn-based dungeon descent. Adapt or vanish.
+ - 🕹️[**Sigil Onslaught**](https://dlvy.github.io/sigil_onslaught.html) - Fast survival chaos. Level. Stack. Overwhelm. 
+
+## 🤝 Open to projects
+
+ - linux sysadmin
+ - blockchain development
+ - hackathon mate
+
+[discord](https://discordapp.com/users/seth_98779)
